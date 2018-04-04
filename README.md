@@ -5,11 +5,11 @@ This is an implementation of [Globally and Locally Consistent Image Completion](
 ## Results
 gif: input -> masked -> output -> blackout
 - result1  
-![result1](images/result1.gif)  
+![result1](gif/result1.gif)  
 - result2  
-![result2](images/result2.gif)  
+![result2](gif/result2.gif)  
 - result3  
-![result3](images/result3.gif)  
+![result3](gif/result3.gif)  
 
 ## Requirements
 - Python 3  
